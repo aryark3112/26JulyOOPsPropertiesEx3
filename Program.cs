@@ -24,10 +24,19 @@ namespace Properties
             //Console.WriteLine($"Customer ID :{customer.Id} Name: {customer.Name} MembershipEndDate {customer.MEndDate}" );
 
             //READOMLY EXAMPLE 2
-            Customer customer= new Customer(12, "Raj", new DateTime(day: 09, month: 02, year: 2024));
+            //Customer customer= new Customer(12, "Raj", new DateTime(day: 09, month: 02, year: 2024));
+            //Console.WriteLine("Customer Details as follows");
+            //Console.WriteLine($"Customer Id :{customer.Id} Nmae:" + $" {customer.Name} MembershipEndDate {customer.MEndDate}");
+            //Console.ReadKey();
+
+            //Write Only Example3
+            Customer customer = new Customer(12, "Raj", new DateTime(day: 09, month: 02, year: 2024));
             Console.WriteLine("Customer Details as follows");
             Console.WriteLine($"Customer Id :{customer.Id} Nmae:" + $" {customer.Name} MembershipEndDate {customer.MEndDate}");
+            customer.Comment = "I am delighted with the services provided by the vendor";
+            customer.ReadComment("admin@123");
             Console.ReadKey();
+
         }
     }
 }
