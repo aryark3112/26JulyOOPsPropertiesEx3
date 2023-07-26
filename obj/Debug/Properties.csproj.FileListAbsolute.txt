@@ -1,0 +1,8 @@
+D:\26July\Properties\Properties\bin\Debug\Properties.exe.config
+D:\26July\Properties\Properties\bin\Debug\Properties.exe
+D:\26July\Properties\Properties\bin\Debug\Properties.pdb
+D:\26July\Properties\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+D:\26July\Properties\Properties\obj\Debug\Properties.csproj.SuggestedBindingRedirects.cache
+D:\26July\Properties\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+D:\26July\Properties\Properties\obj\Debug\Properties.exe
+D:\26July\Properties\Properties\obj\Debug\Properties.pdb
